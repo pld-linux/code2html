@@ -22,7 +22,7 @@ zdefiniowane odpowiednie regu³y. Aby u¿ywaæ code2html, musisz jeszcze
 zainstalowaæ pakiet perl.
 
 %prep
-%setup -q 
+%setup -q
 
 %install
 rm -rf $RPM_BUILD_ROOT
