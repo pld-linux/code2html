@@ -6,22 +6,6 @@ Version:	0.9.1
 Release:	1
 License:	Freeware
 Group:		Applications/Publishing
-Group(cs):	Aplikace/Publikování
-Group(da):	Programmer/Udgivelse
-Group(de):	Applikationen/Publizieren
-Group(es):	Aplicaciones/Edición
-Group(fr):	Applications/Edition
-Group(is):	Forrit/Umbrot
-Group(it):	Applicazioni/Publishing
-Group(ja):	¥¢¥×¥ê¥±¡¼¥·¥ç¥ó/¥Ñ¥Ö¥ê¥Ã¥·¥ó¥°
-Group(no):	Applikasjoner/Publisering
-Group(pl):	Aplikacje/Publikowanie
-Group(pt):	Aplicações/Publicação
-Group(pt_BR):	Aplicações/Editoração
-Group(ru):	ğÒÉÌÏÖÅÎÉÑ/ôÉĞÏÇÒÁÆÉÑ
-Group(sl):	Programi/Zalo¾ni¹tvo
-Group(sv):	Tillämpningar/Publicering
-Group(uk):	ğÒÉËÌÁÄÎ¦ ğÒÏÇÒÁÍÉ/ôÉĞÏÇÒÁÆ¦Ñ
 Source0:	http://download.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
