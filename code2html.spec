@@ -3,7 +3,7 @@ Summary:	Code2html is a tool which allows you to convert your source code files 
 Summary(pl):	Code2html jest narzêdziem konwertuj±cym twój kod ¼ród³owy do HTML-a z wyró¿nieniem sk³adni
 Name:		code2html
 Version:	0.9.1
-Release:	1
+Release:	2
 License:	Freeware
 Group:		Applications/Publishing
 Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
