@@ -17,7 +17,7 @@ defined. To use code2html, you also need to install Perl.
 
 %description -l pl
 Code2html jest skryptem Perla konwertuj±cym ¼ród³o programu do HTML-u
-z wyró¼nieniem sk³adni, albo do innego formatu, dla którego zostan±
+z wyró¿nieniem sk³adni, albo do innego formatu, dla którego zostan±
 zdefiniowane odpowiednie regu³y. Aby u¿ywaæ code2html, musisz jeszcze
 zainstalowaæ pakiet perl.
 
