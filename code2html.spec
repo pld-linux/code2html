@@ -8,6 +8,8 @@ License:	Freeware
 Group:		Applications/Publishing
 Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.tar.gz
 # Source0-md5:	368377696547026c79c51a274571dc39
+URL:		http://www.palfrader.org/code2html/
+Requires:	perl-base
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
