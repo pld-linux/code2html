@@ -1,7 +1,7 @@
 Summary:	Code2html is a tool which allows you to convert your source code files to syntax highlighted HTML.
 Summary(pl):	Code2html jest narzêdziem konwertuj±cym twój kod ¼ród³owy do HTML-u z wyró¿nieniem sk³adni.
 Name:		code2html
-Version:	0.8.12
+Version:	0.9
 Release:	1
 License:	Freeware
 Group:		Applications/Publishing
@@ -24,7 +24,7 @@ zdefiniowane odpowiednie regu³y. Aby u¿ywaæ code2html, musisz jeszcze
 zainstalowaæ pakiet perl.
 
 %prep
-%setup -q -n %{name}
+%setup -q 
 
 %build
 
