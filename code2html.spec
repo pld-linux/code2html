@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 Summary:	Code2html is a tool which allows you to convert your source code files to syntax highlighted HTML
 Summary(pl.UTF-8):	Code2html jest narzędziem konwertującym twój kod źródłowy do HTML-a z wyróżnieniem składni
 Name:		code2html
